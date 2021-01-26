@@ -23,9 +23,13 @@
     text-align: left;
 }
 
-.resume-list p {
-    text-align: left;
-}
+    .resume-list p {
+        text-align: left;
+    }
+
+        .resume-list p strong {
+            font-weight: 900;
+        }
 
 .resume-header {
     text-align: left;
