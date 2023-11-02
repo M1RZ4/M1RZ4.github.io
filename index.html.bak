@@ -22,7 +22,8 @@
             <div id="logo">
                 <!--<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>-->
                 <h1 id="title">Mirza Ojeda Veira</h1>
-                <p> Software Engineer & Game Programmer </p>
+                <p> Software Engineer 
+				& Gameplay Programmer </p>
                 <p> Gijón, Asturias, Spain </p>
             </div>
 
@@ -91,7 +92,7 @@
                     In the last years I have taken a step forward to fulfill my dream of working as a Game Programmer,
                     finishing my Master's degree at the Complutense University of Madrid and working on some
                     independent projects to improve my skills and create amazing games. In the last years I've been working as a full
-                    time Gameplay Programmer, first in Limitless Games and now in DR Studios.</br>
+                    time Gameplay Programmer, first on Limitless Games and now on DR Studios.</br>
                     I've worked with many different technologies across all these years, but I'm more used to work with Unreal Engine 4 and C++. I'm also open to work with new technologies. </br>
                 </p>
 
@@ -163,7 +164,7 @@
                 <div class="row">
                     <div class="col-4 col-12-mobile">
                         <article class="item">
-                            <a href="https://nehangame.itch.io/nehan" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+                            <a href="https://nehangame.itch.io/nehan" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
                             <header>
                                 <h3>Nehan</h3>
                             </header>
@@ -200,9 +201,10 @@
 
                 <ul class="resume-list">
                     <li>
-                        <p>
-                            <strong>Email:</strong> mirzaojeda@gmail.com </br>
-                        </p>
+						<strong>Email:</strong> mirzaojeda@gmail.com </br>
+                    </li>
+					<li>
+						<strong>Phone:</strong> +34 619380774 </br>
                     </li>
                 </ul>
 
